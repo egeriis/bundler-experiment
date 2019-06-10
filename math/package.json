@@ -1,0 +1,11 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "indexEs.js",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^1.14.6",
+    "rollup-plugin-uglify": "^6.0.2"
+  }
+}

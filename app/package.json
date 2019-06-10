@@ -1,0 +1,12 @@
+{
+  "name": "bundler-experiment-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.33.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.3"
+  }
+}
